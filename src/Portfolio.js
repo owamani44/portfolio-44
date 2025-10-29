@@ -117,13 +117,13 @@ export default function Portfolio() {
               <ul className="text-sm space-y-2">
                 <li><a href="https://github.com/owamani44" target="_blank" rel="noreferrer" className="hover:underline">GitHub</a></li>
                 <li><a href="https://www.linkedin.com/in/solomon-owamani-5b6b37258" target="_blank" rel="noreferrer" className="hover:underline">LinkedIn</a></li>
-                <li><a href="#resume" className="hover:underline">Download Resume (placeholder)</a></li>
+                <li><a href="#resume" className="hover:underline">Download Resume </a></li>
               </ul>
             </div>
 
             <div className="mt-6">
-              <h4 className="text-sm font-medium mb-2">Theme</h4>
-              <p className="text-xs opacity-80">This template includes a dark-friendly layout and uses blue → green accents per your preference.</p>
+              <h4 className="text-sm font-medium mb-2">Tel. : +256781236325</h4>
+              <p className="text-xs opacity-80"></p>
             </div>
           </aside>
         </section>
